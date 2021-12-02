@@ -1,0 +1,204 @@
+@font-face {
+    font-family: "Bangers";
+    src: url(../font/Bangers-Regular.ttf);
+}
+
+$color_primary:#ff4500;
+$color_black_down:#000;
+$color_text_white:#fff;
+$bg_black_body:#000;
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html {
+    font-family: "Bangers", sans-serif;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+body {
+    box-sizing: border-box;
+    background-color: $bg_black_body;
+}
+
+.header {
+    width: 100%;
+    height: 135px;
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+    z-index: 10;
+    &-down {
+        height: 70px;
+        background-color: $color_black_down;
+        box-shadow: 0 1px 10px $color_primary;
+    }
+    &__container {
+        &-down {
+            height: 70px;
+        }
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        max-width: 1200px;
+        margin: 0 auto;
+        position: fixed;
+        top: 0;
+        left: auto;
+        &--menu {
+            & nav {
+                height: 100%;
+            }
+            width: calc(100% - 350px);
+        }
+    }
+}
+
+.main-menu {
+    height: inherit;
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: space-around;
+    & li a {
+        cursor: pointer;
+        text-decoration: none;
+        color: $color_text_white;
+        font-weight: 300;
+        transition: all .5s ease;
+        &:hover {
+            color: $color_primary;
+        }
+    }
+    & .active {
+        color: $color_primary;
+    }
+}
+
+.vidwrapper video {
+    width: 100%;
+    height: 100%;
+}
+
+.about {
+    background-image: url(../media/section-hero.5954265b.png);
+    background-position: center right;
+    background-repeat: no-repeat;
+    height: 1000px;
+    .container {
+        width: 100%;
+        height: 100%;
+        max-width: 1200px;
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+    }
+    &__wrapper {
+        width: 50%;
+        position: relative;
+        z-index: 1;
+        & h2 {
+            color: $color_text_white;
+            font-size: 4rem;
+            margin-bottom: 45px;
+            & .text-primary {
+                color: $color_primary;
+            }
+        }
+        & p {
+            color: $color_text_white;
+            font-size: 1.3rem;
+            max-width: 470px;
+            margin-bottom: 45px;
+        }
+    }
+}
+
+.btn {
+    position: relative;
+    display: inline-block;
+    font-family: "Bangers", sans-serif;
+    letter-spacing: .03em;
+    text-decoration: none;
+    &+& {
+        margin-left: 50px;
+    }
+    &-primary {
+        color: $color_text_white;
+        padding: 12px 50px;
+        font-size: 1.5rem;
+        &::before {
+            content: "";
+            background-color: $color_primary;
+            width: 100%;
+            height: 100%;
+            transform: skewX(-16deg);
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: -1;
+        }
+        &::after {
+            content: "";
+            background-color: $color_primary;
+            width: 6px;
+            height: 100%;
+            transform: skewX(-16deg);
+            position: absolute;
+            top: 0;
+            right: -15px;
+            z-index: -1;
+            transition: all .5s ease;
+        }
+        &:hover::after {
+            right: 0px;
+        }
+    }
+    &-secondary {
+        color: $color_primary;
+        padding: 12px 50px;
+        font-size: 1.5rem;
+        &::before {
+            content: "";
+            background-color: $color_text_white;
+            width: 100%;
+            height: 100%;
+            transform: skewX(-16deg);
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: -1;
+        }
+        &::after {
+            content: "";
+            background-color: $color_text_white;
+            width: 6px;
+            height: 100%;
+            transform: skewX(-16deg);
+            position: absolute;
+            top: 0;
+            right: -15px;
+            z-index: -1;
+            transition: all .5s ease;
+        }
+        &:hover::after {
+            right: 0px;
+        }
+    }
+}
+
+.features {
+    & .container {
+        max-width: 1200px;
+    }
+}
