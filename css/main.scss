@@ -415,6 +415,21 @@ body {
                     color: $color_primary;
                 }
             }
+            & p {
+                font-weight: 600;
+                color: $color_text_white;
+                margin-bottom: 15px;
+                & span {
+                    color: $color_primary;
+                }
+            }
+            &-list {
+                margin-bottom: 25px;
+                & li span:first-child {
+                    display: inline-block;
+                    width: 60%;
+                }
+            }
         }
     }
 }
