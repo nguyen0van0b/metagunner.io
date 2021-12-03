@@ -9,3 +9,30 @@ function scrollFunction() {
         document.getElementsByClassName('header__container')[0].classList.remove('header__container-down');
     }
 }
+// slider sclick
+$(document).ready(function() {
+    $('.howtoplay__slider').slick({
+        centerMode: true,
+        centerPadding: '100px',
+        slidesToShow: 1,
+        // autoplay: true,
+        // autoplaySpeed: 2000,
+        responsive: [{
+            breakpoint: 768,
+            settings: {
+                arrows: false,
+                centerMode: true,
+                centerPadding: '40px',
+                slidesToShow: 3
+            }
+        }, {
+            breakpoint: 480,
+            settings: {
+                arrows: false,
+                centerMode: true,
+                centerPadding: '40px',
+                slidesToShow: 1
+            }
+        }]
+    });
+});
