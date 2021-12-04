@@ -36,3 +36,12 @@ $(document).ready(function() {
         }]
     });
 });
+
+function Function_menu_mobile() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "main-menu") {
+        x.className += " responsive";
+    } else {
+        x.className = "main-menu";
+    }
+}
