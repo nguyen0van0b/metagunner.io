@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/metagunner.io/static/css/main.b08c0e4a.chunk.css",
-    "main.js": "/metagunner.io/static/js/main.78f254fc.chunk.js",
-    "main.js.map": "/metagunner.io/static/js/main.78f254fc.chunk.js.map",
+    "main.css": "/metagunner.io/static/css/main.784752cb.chunk.css",
+    "main.js": "/metagunner.io/static/js/main.e9236cf1.chunk.js",
+    "main.js.map": "/metagunner.io/static/js/main.e9236cf1.chunk.js.map",
     "runtime-main.js": "/metagunner.io/static/js/runtime-main.11a598e9.js",
     "runtime-main.js.map": "/metagunner.io/static/js/runtime-main.11a598e9.js.map",
     "static/css/2.aa9ce5eb.chunk.css": "/metagunner.io/static/css/2.aa9ce5eb.chunk.css",
-    "static/js/2.7e0d501a.chunk.js": "/metagunner.io/static/js/2.7e0d501a.chunk.js",
-    "static/js/2.7e0d501a.chunk.js.map": "/metagunner.io/static/js/2.7e0d501a.chunk.js.map",
+    "static/js/2.21309dca.chunk.js": "/metagunner.io/static/js/2.21309dca.chunk.js",
+    "static/js/2.21309dca.chunk.js.map": "/metagunner.io/static/js/2.21309dca.chunk.js.map",
     "static/js/3.9d74c331.chunk.js": "/metagunner.io/static/js/3.9d74c331.chunk.js",
     "static/js/3.9d74c331.chunk.js.map": "/metagunner.io/static/js/3.9d74c331.chunk.js.map",
     "index.html": "/metagunner.io/index.html",
     "static/css/2.aa9ce5eb.chunk.css.map": "/metagunner.io/static/css/2.aa9ce5eb.chunk.css.map",
-    "static/css/main.b08c0e4a.chunk.css.map": "/metagunner.io/static/css/main.b08c0e4a.chunk.css.map",
-    "static/js/2.7e0d501a.chunk.js.LICENSE.txt": "/metagunner.io/static/js/2.7e0d501a.chunk.js.LICENSE.txt",
+    "static/css/main.784752cb.chunk.css.map": "/metagunner.io/static/css/main.784752cb.chunk.css.map",
+    "static/js/2.21309dca.chunk.js.LICENSE.txt": "/metagunner.io/static/js/2.21309dca.chunk.js.LICENSE.txt",
     "static/media/0001.16e18857.mp4": "/metagunner.io/static/media/0001.16e18857.mp4",
     "static/media/0002.818e1717.mp4": "/metagunner.io/static/media/0002.818e1717.mp4",
     "static/media/0003.8f333942.mp4": "/metagunner.io/static/media/0003.8f333942.mp4",
@@ -36,7 +36,6 @@
     "static/media/about.module.scss": "/metagunner.io/static/media/banner-9.d108f495.png",
     "static/media/features.module.scss": "/metagunner.io/static/media/bg_features.490bce91.png",
     "static/media/GlobalStyles.scss": "/metagunner.io/static/media/red_button.a88033c1.png",
-    "static/media/bullet.ec40c8ef.png": "/metagunner.io/static/media/bullet.ec40c8ef.png",
     "static/media/communities.8a3fa910.71097ec5.png": "/metagunner.io/static/media/communities.8a3fa910.71097ec5.png",
     "static/media/derace.ce76ce89.f3a8a416.png": "/metagunner.io/static/media/derace.ce76ce89.f3a8a416.png",
     "static/media/discord.d7161d9f.svg": "/metagunner.io/static/media/discord.d7161d9f.svg",
@@ -50,6 +49,7 @@
     "static/media/layer4.17d16852.png": "/metagunner.io/static/media/layer4.17d16852.png",
     "static/media/magnus-capital.027e1ec0.551cc2b0.png": "/metagunner.io/static/media/magnus-capital.027e1ec0.551cc2b0.png",
     "static/media/medium.fc15dad0.svg": "/metagunner.io/static/media/medium.fc15dad0.svg",
+    "static/media/metagunner-namngang.3039e336.png": "/metagunner.io/static/media/metagunner-namngang.3039e336.png",
     "static/media/metagunner_banner_500.38186f38.png": "/metagunner.io/static/media/metagunner_banner_500.38186f38.png",
     "static/media/metagunner_clip_banner.bd7af343.mp4": "/metagunner.io/static/media/metagunner_clip_banner.bd7af343.mp4",
     "static/media/metrix-capital.60512ea7.cc3548c3.png": "/metagunner.io/static/media/metrix-capital.60512ea7.cc3548c3.png",
@@ -64,8 +64,8 @@
   "entrypoints": [
     "static/js/runtime-main.11a598e9.js",
     "static/css/2.aa9ce5eb.chunk.css",
-    "static/js/2.7e0d501a.chunk.js",
-    "static/css/main.b08c0e4a.chunk.css",
-    "static/js/main.78f254fc.chunk.js"
+    "static/js/2.21309dca.chunk.js",
+    "static/css/main.784752cb.chunk.css",
+    "static/js/main.e9236cf1.chunk.js"
   ]
 }
