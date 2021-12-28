@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/metagunner.io/static/css/main.4a3c86b5.chunk.css",
-    "main.js": "/metagunner.io/static/js/main.29eb75c1.chunk.js",
-    "main.js.map": "/metagunner.io/static/js/main.29eb75c1.chunk.js.map",
+    "main.css": "/metagunner.io/static/css/main.07550c8d.chunk.css",
+    "main.js": "/metagunner.io/static/js/main.02c88caf.chunk.js",
+    "main.js.map": "/metagunner.io/static/js/main.02c88caf.chunk.js.map",
     "runtime-main.js": "/metagunner.io/static/js/runtime-main.11a598e9.js",
     "runtime-main.js.map": "/metagunner.io/static/js/runtime-main.11a598e9.js.map",
     "static/css/2.81b88f8e.chunk.css": "/metagunner.io/static/css/2.81b88f8e.chunk.css",
-    "static/js/2.3073a5aa.chunk.js": "/metagunner.io/static/js/2.3073a5aa.chunk.js",
-    "static/js/2.3073a5aa.chunk.js.map": "/metagunner.io/static/js/2.3073a5aa.chunk.js.map",
+    "static/js/2.c4e79c37.chunk.js": "/metagunner.io/static/js/2.c4e79c37.chunk.js",
+    "static/js/2.c4e79c37.chunk.js.map": "/metagunner.io/static/js/2.c4e79c37.chunk.js.map",
     "static/js/3.9d74c331.chunk.js": "/metagunner.io/static/js/3.9d74c331.chunk.js",
     "static/js/3.9d74c331.chunk.js.map": "/metagunner.io/static/js/3.9d74c331.chunk.js.map",
     "index.html": "/metagunner.io/index.html",
     "static/css/2.81b88f8e.chunk.css.map": "/metagunner.io/static/css/2.81b88f8e.chunk.css.map",
-    "static/css/main.4a3c86b5.chunk.css.map": "/metagunner.io/static/css/main.4a3c86b5.chunk.css.map",
-    "static/js/2.3073a5aa.chunk.js.LICENSE.txt": "/metagunner.io/static/js/2.3073a5aa.chunk.js.LICENSE.txt",
+    "static/css/main.07550c8d.chunk.css.map": "/metagunner.io/static/css/main.07550c8d.chunk.css.map",
+    "static/js/2.c4e79c37.chunk.js.LICENSE.txt": "/metagunner.io/static/js/2.c4e79c37.chunk.js.LICENSE.txt",
     "static/media/0001.16e18857.mp4": "/metagunner.io/static/media/0001.16e18857.mp4",
     "static/media/0002.818e1717.mp4": "/metagunner.io/static/media/0002.818e1717.mp4",
     "static/media/0003.8f333942.mp4": "/metagunner.io/static/media/0003.8f333942.mp4",
@@ -44,11 +44,11 @@
     "static/media/about.module.scss": "/metagunner.io/static/media/banner-9.d108f495.png",
     "static/media/basecamp_vid.06387d2f.mp4": "/metagunner.io/static/media/basecamp_vid.06387d2f.mp4",
     "static/media/tokenomics.module.scss": "/metagunner.io/static/media/bg_features.c179be56.png",
+    "static/media/TEAM.module.scss": "/metagunner.io/static/media/bg_features2.57b34ed9.jpg",
     "static/media/GlobalStyles.scss": "/metagunner.io/static/media/red_button.a88033c1.png",
     "static/media/communities.8a3fa910.71097ec5.png": "/metagunner.io/static/media/communities.8a3fa910.71097ec5.png",
     "static/media/derace.ce76ce89.f3a8a416.png": "/metagunner.io/static/media/derace.ce76ce89.f3a8a416.png",
     "static/media/discord.d7161d9f.svg": "/metagunner.io/static/media/discord.d7161d9f.svg",
-    "static/media/footer.module.scss": "/metagunner.io/static/media/telegram.7f13590c.svg",
     "static/media/game_gallery_02.94e6dc69.794c91bb.png": "/metagunner.io/static/media/game_gallery_02.94e6dc69.794c91bb.png",
     "static/media/githubbbb.48465252.svg": "/metagunner.io/static/media/githubbbb.48465252.svg",
     "static/media/layer1.d4b31c58.png": "/metagunner.io/static/media/layer1.d4b31c58.png",
@@ -65,14 +65,15 @@
     "static/media/slick-theme.css": "/metagunner.io/static/media/slick.c94f7671.ttf",
     "static/media/standard-crypto.95688a10.992156a7.png": "/metagunner.io/static/media/standard-crypto.95688a10.992156a7.png",
     "static/media/supra-oracles.0bd69769.25a0b3f9.png": "/metagunner.io/static/media/supra-oracles.0bd69769.25a0b3f9.png",
+    "static/media/footer.module.scss": "/metagunner.io/static/media/telegram.7f13590c.svg",
     "static/media/tokenomics.25d3c6dd.d0a491c1.png": "/metagunner.io/static/media/tokenomics.25d3c6dd.d0a491c1.png",
     "static/media/twitter.c2d86b73.svg": "/metagunner.io/static/media/twitter.c2d86b73.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.11a598e9.js",
     "static/css/2.81b88f8e.chunk.css",
-    "static/js/2.3073a5aa.chunk.js",
-    "static/css/main.4a3c86b5.chunk.css",
-    "static/js/main.29eb75c1.chunk.js"
+    "static/js/2.c4e79c37.chunk.js",
+    "static/css/main.07550c8d.chunk.css",
+    "static/js/main.02c88caf.chunk.js"
   ]
 }
