@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/metagunner.io/static/css/main.9665388a.chunk.css",
-    "main.js": "/metagunner.io/static/js/main.cfd2d82e.chunk.js",
-    "main.js.map": "/metagunner.io/static/js/main.cfd2d82e.chunk.js.map",
+    "main.css": "/metagunner.io/static/css/main.76316fb2.chunk.css",
+    "main.js": "/metagunner.io/static/js/main.604d6d2b.chunk.js",
+    "main.js.map": "/metagunner.io/static/js/main.604d6d2b.chunk.js.map",
     "runtime-main.js": "/metagunner.io/static/js/runtime-main.20fbe99d.js",
     "runtime-main.js.map": "/metagunner.io/static/js/runtime-main.20fbe99d.js.map",
     "static/css/2.81b88f8e.chunk.css": "/metagunner.io/static/css/2.81b88f8e.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.dcfc156b.chunk.js.map": "/metagunner.io/static/js/3.dcfc156b.chunk.js.map",
     "index.html": "/metagunner.io/index.html",
     "static/css/2.81b88f8e.chunk.css.map": "/metagunner.io/static/css/2.81b88f8e.chunk.css.map",
-    "static/css/main.9665388a.chunk.css.map": "/metagunner.io/static/css/main.9665388a.chunk.css.map",
+    "static/css/main.76316fb2.chunk.css.map": "/metagunner.io/static/css/main.76316fb2.chunk.css.map",
     "static/js/2.af3daee3.chunk.js.LICENSE.txt": "/metagunner.io/static/js/2.af3daee3.chunk.js.LICENSE.txt",
     "static/media/0001.bd1f0aa7.mp4": "/metagunner.io/static/media/0001.bd1f0aa7.mp4",
     "static/media/0002.60a78d96.mp4": "/metagunner.io/static/media/0002.60a78d96.mp4",
@@ -46,10 +46,10 @@
     "static/media/Medic.2eb2a77d.png": "/metagunner.io/static/media/Medic.2eb2a77d.png",
     "static/media/Officer.230248af.png": "/metagunner.io/static/media/Officer.230248af.png",
     "static/media/Picture1.d76febaf.png": "/metagunner.io/static/media/Picture1.d76febaf.png",
-    "static/media/Q1_2022.1fb0f2af.png": "/metagunner.io/static/media/Q1_2022.1fb0f2af.png",
-    "static/media/Q2_2022.12fe88f4.png": "/metagunner.io/static/media/Q2_2022.12fe88f4.png",
-    "static/media/Q3_2022.fb095d0c.png": "/metagunner.io/static/media/Q3_2022.fb095d0c.png",
-    "static/media/Q4_2021.72c3f7af.png": "/metagunner.io/static/media/Q4_2021.72c3f7af.png",
+    "static/media/Q1_2022.75759c88.png": "/metagunner.io/static/media/Q1_2022.75759c88.png",
+    "static/media/Q2_2022.8e9d7bf7.png": "/metagunner.io/static/media/Q2_2022.8e9d7bf7.png",
+    "static/media/Q3_2022.a754ad51.png": "/metagunner.io/static/media/Q3_2022.a754ad51.png",
+    "static/media/Q4_2021.51d47203.png": "/metagunner.io/static/media/Q4_2021.51d47203.png",
     "static/media/RANKING.7cf5311b.png": "/metagunner.io/static/media/RANKING.7cf5311b.png",
     "static/media/Reaper.3d72fd58.png": "/metagunner.io/static/media/Reaper.3d72fd58.png",
     "static/media/Roadmap.7d527d51.png": "/metagunner.io/static/media/Roadmap.7d527d51.png",
@@ -84,7 +84,6 @@
     "static/media/metagunner-namngang.8a8fea27.png": "/metagunner.io/static/media/metagunner-namngang.8a8fea27.png",
     "static/media/metagunner_banner_500.38186f38.png": "/metagunner.io/static/media/metagunner_banner_500.38186f38.png",
     "static/media/revolver_2.4351de2c.png": "/metagunner.io/static/media/revolver_2.4351de2c.png",
-    "static/media/roadmap.module.scss": "/metagunner.io/static/media/roadmap_MB.aa59724e.png",
     "static/media/rocket_launcher_3.f25a114e.png": "/metagunner.io/static/media/rocket_launcher_3.f25a114e.png",
     "static/media/shotgun_2.0fc80293.png": "/metagunner.io/static/media/shotgun_2.0fc80293.png",
     "static/media/slick-theme.css": "/metagunner.io/static/media/slick.c94f7671.ttf",
@@ -98,7 +97,7 @@
     "static/js/runtime-main.20fbe99d.js",
     "static/css/2.81b88f8e.chunk.css",
     "static/js/2.af3daee3.chunk.js",
-    "static/css/main.9665388a.chunk.css",
-    "static/js/main.cfd2d82e.chunk.js"
+    "static/css/main.76316fb2.chunk.css",
+    "static/js/main.604d6d2b.chunk.js"
   ]
 }
