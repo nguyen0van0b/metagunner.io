@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/metagunner.io/static/css/main.f11f3b45.chunk.css",
-    "main.js": "/metagunner.io/static/js/main.5a02ccb2.chunk.js",
-    "main.js.map": "/metagunner.io/static/js/main.5a02ccb2.chunk.js.map",
+    "main.js": "/metagunner.io/static/js/main.67ae831a.chunk.js",
+    "main.js.map": "/metagunner.io/static/js/main.67ae831a.chunk.js.map",
     "runtime-main.js": "/metagunner.io/static/js/runtime-main.20fbe99d.js",
     "runtime-main.js.map": "/metagunner.io/static/js/runtime-main.20fbe99d.js.map",
     "static/css/2.81b88f8e.chunk.css": "/metagunner.io/static/css/2.81b88f8e.chunk.css",
@@ -98,6 +98,6 @@
     "static/css/2.81b88f8e.chunk.css",
     "static/js/2.af3daee3.chunk.js",
     "static/css/main.f11f3b45.chunk.css",
-    "static/js/main.5a02ccb2.chunk.js"
+    "static/js/main.67ae831a.chunk.js"
   ]
 }
