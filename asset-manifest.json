@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/metagunner.io/static/css/main.49d89a6d.chunk.css",
-    "main.js": "/metagunner.io/static/js/main.a878fa69.chunk.js",
-    "main.js.map": "/metagunner.io/static/js/main.a878fa69.chunk.js.map",
+    "main.css": "/metagunner.io/static/css/main.9665388a.chunk.css",
+    "main.js": "/metagunner.io/static/js/main.cfd2d82e.chunk.js",
+    "main.js.map": "/metagunner.io/static/js/main.cfd2d82e.chunk.js.map",
     "runtime-main.js": "/metagunner.io/static/js/runtime-main.20fbe99d.js",
     "runtime-main.js.map": "/metagunner.io/static/js/runtime-main.20fbe99d.js.map",
     "static/css/2.81b88f8e.chunk.css": "/metagunner.io/static/css/2.81b88f8e.chunk.css",
-    "static/js/2.5ebbbdf7.chunk.js": "/metagunner.io/static/js/2.5ebbbdf7.chunk.js",
-    "static/js/2.5ebbbdf7.chunk.js.map": "/metagunner.io/static/js/2.5ebbbdf7.chunk.js.map",
+    "static/js/2.af3daee3.chunk.js": "/metagunner.io/static/js/2.af3daee3.chunk.js",
+    "static/js/2.af3daee3.chunk.js.map": "/metagunner.io/static/js/2.af3daee3.chunk.js.map",
     "static/js/3.dcfc156b.chunk.js": "/metagunner.io/static/js/3.dcfc156b.chunk.js",
     "static/js/3.dcfc156b.chunk.js.map": "/metagunner.io/static/js/3.dcfc156b.chunk.js.map",
     "index.html": "/metagunner.io/index.html",
     "static/css/2.81b88f8e.chunk.css.map": "/metagunner.io/static/css/2.81b88f8e.chunk.css.map",
-    "static/css/main.49d89a6d.chunk.css.map": "/metagunner.io/static/css/main.49d89a6d.chunk.css.map",
-    "static/js/2.5ebbbdf7.chunk.js.LICENSE.txt": "/metagunner.io/static/js/2.5ebbbdf7.chunk.js.LICENSE.txt",
+    "static/css/main.9665388a.chunk.css.map": "/metagunner.io/static/css/main.9665388a.chunk.css.map",
+    "static/js/2.af3daee3.chunk.js.LICENSE.txt": "/metagunner.io/static/js/2.af3daee3.chunk.js.LICENSE.txt",
     "static/media/0001.bd1f0aa7.mp4": "/metagunner.io/static/media/0001.bd1f0aa7.mp4",
     "static/media/0002.60a78d96.mp4": "/metagunner.io/static/media/0002.60a78d96.mp4",
     "static/media/0003.056c7255.mp4": "/metagunner.io/static/media/0003.056c7255.mp4",
@@ -91,14 +91,14 @@
     "static/media/sniper_rifle_5.48bcac58.png": "/metagunner.io/static/media/sniper_rifle_5.48bcac58.png",
     "static/media/submachine_4.2cfa0f94.png": "/metagunner.io/static/media/submachine_4.2cfa0f94.png",
     "static/media/footer.module.scss": "/metagunner.io/static/media/telegram.7f13590c.svg",
-    "static/media/tokenomics.25d3c6dd.2c7da8ca.png": "/metagunner.io/static/media/tokenomics.25d3c6dd.2c7da8ca.png",
+    "static/media/tokenomics.25d3c6dd.dcda084e.png": "/metagunner.io/static/media/tokenomics.25d3c6dd.dcda084e.png",
     "static/media/twitter.c2d86b73.svg": "/metagunner.io/static/media/twitter.c2d86b73.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.20fbe99d.js",
     "static/css/2.81b88f8e.chunk.css",
-    "static/js/2.5ebbbdf7.chunk.js",
-    "static/css/main.49d89a6d.chunk.css",
-    "static/js/main.a878fa69.chunk.js"
+    "static/js/2.af3daee3.chunk.js",
+    "static/css/main.9665388a.chunk.css",
+    "static/js/main.cfd2d82e.chunk.js"
   ]
 }
