@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/metagunner.io/static/css/main.04be03bf.chunk.css",
-    "main.js": "/metagunner.io/static/js/main.1fb0472b.chunk.js",
-    "main.js.map": "/metagunner.io/static/js/main.1fb0472b.chunk.js.map",
+    "main.js": "/metagunner.io/static/js/main.00a23ecb.chunk.js",
+    "main.js.map": "/metagunner.io/static/js/main.00a23ecb.chunk.js.map",
     "runtime-main.js": "/metagunner.io/static/js/runtime-main.20fbe99d.js",
     "runtime-main.js.map": "/metagunner.io/static/js/runtime-main.20fbe99d.js.map",
     "static/css/2.81b88f8e.chunk.css": "/metagunner.io/static/css/2.81b88f8e.chunk.css",
@@ -52,9 +52,9 @@
     "static/media/PHU.53df223d.png": "/metagunner.io/static/media/PHU.53df223d.png",
     "static/media/PHUOC.a9587969.png": "/metagunner.io/static/media/PHUOC.a9587969.png",
     "static/media/Picture1.d76febaf.png": "/metagunner.io/static/media/Picture1.d76febaf.png",
-    "static/media/Q1_2022.75759c88.png": "/metagunner.io/static/media/Q1_2022.75759c88.png",
+    "static/media/Q1_2022.ac54024f.png": "/metagunner.io/static/media/Q1_2022.ac54024f.png",
     "static/media/Q2_2022.8e9d7bf7.png": "/metagunner.io/static/media/Q2_2022.8e9d7bf7.png",
-    "static/media/Q3_2022.a754ad51.png": "/metagunner.io/static/media/Q3_2022.a754ad51.png",
+    "static/media/Q3_2022.6a688ecd.png": "/metagunner.io/static/media/Q3_2022.6a688ecd.png",
     "static/media/Q4_2021.51d47203.png": "/metagunner.io/static/media/Q4_2021.51d47203.png",
     "static/media/RANKING.7cf5311b.png": "/metagunner.io/static/media/RANKING.7cf5311b.png",
     "static/media/Reaper.3d72fd58.png": "/metagunner.io/static/media/Reaper.3d72fd58.png",
@@ -106,6 +106,6 @@
     "static/css/2.81b88f8e.chunk.css",
     "static/js/2.25b8bd16.chunk.js",
     "static/css/main.04be03bf.chunk.css",
-    "static/js/main.1fb0472b.chunk.js"
+    "static/js/main.00a23ecb.chunk.js"
   ]
 }
