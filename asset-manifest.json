@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.16197c4a.chunk.css",
-    "main.js": "./static/js/main.027cd361.chunk.js",
-    "main.js.map": "./static/js/main.027cd361.chunk.js.map",
+    "main.js": "./static/js/main.53f6dcf7.chunk.js",
+    "main.js.map": "./static/js/main.53f6dcf7.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.ea9ab61b.js",
     "runtime-main.js.map": "./static/js/runtime-main.ea9ab61b.js.map",
     "static/css/2.26df1462.chunk.css": "./static/css/2.26df1462.chunk.css",
@@ -54,7 +54,7 @@
     "static/media/Picture1.d76febaf.png": "./static/media/Picture1.d76febaf.png",
     "static/media/Q1_2022.ac54024f.png": "./static/media/Q1_2022.ac54024f.png",
     "static/media/Q2_2022.8e9d7bf7.png": "./static/media/Q2_2022.8e9d7bf7.png",
-    "static/media/Q3_2022.6a688ecd.png": "./static/media/Q3_2022.6a688ecd.png",
+    "static/media/Q3_2022.7eb12d0f.png": "./static/media/Q3_2022.7eb12d0f.png",
     "static/media/Q4_2021.51d47203.png": "./static/media/Q4_2021.51d47203.png",
     "static/media/RANKING.7cf5311b.png": "./static/media/RANKING.7cf5311b.png",
     "static/media/Reaper.3d72fd58.png": "./static/media/Reaper.3d72fd58.png",
@@ -105,6 +105,6 @@
     "static/css/2.26df1462.chunk.css",
     "static/js/2.747b66f0.chunk.js",
     "static/css/main.16197c4a.chunk.css",
-    "static/js/main.027cd361.chunk.js"
+    "static/js/main.53f6dcf7.chunk.js"
   ]
 }
