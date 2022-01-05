@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.1fb2e49b.chunk.css",
-    "main.js": "./static/js/main.fffe8025.chunk.js",
-    "main.js.map": "./static/js/main.fffe8025.chunk.js.map",
+    "main.js": "./static/js/main.04810d05.chunk.js",
+    "main.js.map": "./static/js/main.04810d05.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.e18ad8ff.js",
     "runtime-main.js.map": "./static/js/runtime-main.e18ad8ff.js.map",
     "static/css/2.26df1462.chunk.css": "./static/css/2.26df1462.chunk.css",
@@ -99,7 +99,7 @@
     "static/media/special-force.ec2345c4.png": "./static/media/special-force.ec2345c4.png",
     "static/media/submachine_4.2cfa0f94.png": "./static/media/submachine_4.2cfa0f94.png",
     "static/media/footer.module.scss": "./static/media/telegram.7f13590c.svg",
-    "static/media/tokenomics.25d3c6dd.c3d601cb.png": "./static/media/tokenomics.25d3c6dd.c3d601cb.png",
+    "static/media/tokenomics.25d3c6dd.e6136036.png": "./static/media/tokenomics.25d3c6dd.e6136036.png",
     "static/media/twitter.c2d86b73.svg": "./static/media/twitter.c2d86b73.svg"
   },
   "entrypoints": [
@@ -107,6 +107,6 @@
     "static/css/2.26df1462.chunk.css",
     "static/js/2.81d9469b.chunk.js",
     "static/css/main.1fb2e49b.chunk.css",
-    "static/js/main.fffe8025.chunk.js"
+    "static/js/main.04810d05.chunk.js"
   ]
 }
