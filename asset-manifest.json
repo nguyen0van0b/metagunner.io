@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.9c777ca3.chunk.css",
-    "main.js": "./static/js/main.567efa41.chunk.js",
-    "main.js.map": "./static/js/main.567efa41.chunk.js.map",
+    "main.js": "./static/js/main.009efcc1.chunk.js",
+    "main.js.map": "./static/js/main.009efcc1.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.e18ad8ff.js",
     "runtime-main.js.map": "./static/js/runtime-main.e18ad8ff.js.map",
     "static/css/2.26df1462.chunk.css": "./static/css/2.26df1462.chunk.css",
@@ -23,15 +23,15 @@
     "static/media/0007.b0512ae8.mp4": "./static/media/0007.b0512ae8.mp4",
     "static/media/AN.c0724a50.webp": "./static/media/AN.c0724a50.webp",
     "static/media/Adolfer.9ff5cfac.webp": "./static/media/Adolfer.9ff5cfac.webp",
-    "static/media/Arena_Mode.9cf5c37a.webp": "./static/media/Arena_Mode.9cf5c37a.webp",
+    "static/media/Arena_Mode.1cf2f21f.webp": "./static/media/Arena_Mode.1cf2f21f.webp",
     "static/media/Basecamp.9fff5e13.webp": "./static/media/Basecamp.9fff5e13.webp",
     "static/media/CHARACTER.24e4db15.webp": "./static/media/CHARACTER.24e4db15.webp",
-    "static/media/CampaignMode.48c49708.webp": "./static/media/CampaignMode.48c49708.webp",
+    "static/media/CampaignMode.094cc858.webp": "./static/media/CampaignMode.094cc858.webp",
     "static/media/Character-Card.f6d4fa5d.webp": "./static/media/Character-Card.f6d4fa5d.webp",
     "static/media/DUONG.fd0d97af.webp": "./static/media/DUONG.fd0d97af.webp",
     "static/media/Dante.9f46fc90.webp": "./static/media/Dante.9f46fc90.webp",
     "static/media/Enzo.f6588029.webp": "./static/media/Enzo.f6588029.webp",
-    "static/media/FEATURES4.a138c6d6.webp": "./static/media/FEATURES4.a138c6d6.webp",
+    "static/media/FEATURES4.a91a1ceb.webp": "./static/media/FEATURES4.a91a1ceb.webp",
     "static/media/Fenix.f4f52fef.webp": "./static/media/Fenix.f4f52fef.webp",
     "static/media/GAME-FEATURES.81a424b7.webp": "./static/media/GAME-FEATURES.81a424b7.webp",
     "static/media/Gunner.7d91dc2b.webp": "./static/media/Gunner.7d91dc2b.webp",
@@ -41,7 +41,7 @@
     "static/media/James.cbe8cf61.webp": "./static/media/James.cbe8cf61.webp",
     "static/media/Krato.45d74c6e.webp": "./static/media/Krato.45d74c6e.webp",
     "static/media/Leon_K.511680d3.webp": "./static/media/Leon_K.511680d3.webp",
-    "static/media/Logo.dba3d8e8.webp": "./static/media/Logo.dba3d8e8.webp",
+    "static/media/Logo.e809bdd5.webp": "./static/media/Logo.e809bdd5.webp",
     "static/media/Lorda_Ark.db697043.webp": "./static/media/Lorda_Ark.db697043.webp",
     "static/media/Lutz.a6b785e0.webp": "./static/media/Lutz.a6b785e0.webp",
     "static/media/MEO.256e07f1.webp": "./static/media/MEO.256e07f1.webp",
@@ -55,7 +55,7 @@
     "static/media/Q2_2022.669f0ba9.webp": "./static/media/Q2_2022.669f0ba9.webp",
     "static/media/Q3_2022.c945c3ab.webp": "./static/media/Q3_2022.c945c3ab.webp",
     "static/media/Q4_2021.35ed7953.webp": "./static/media/Q4_2021.35ed7953.webp",
-    "static/media/RANKING.528476e5.webp": "./static/media/RANKING.528476e5.webp",
+    "static/media/RANKING.b8d37910.webp": "./static/media/RANKING.b8d37910.webp",
     "static/media/Reaper.861cb577.webp": "./static/media/Reaper.861cb577.webp",
     "static/media/Roadmap.4a6a169e.webp": "./static/media/Roadmap.4a6a169e.webp",
     "static/media/Scout.00b8a6f8.webp": "./static/media/Scout.00b8a6f8.webp",
@@ -99,7 +99,7 @@
     "static/media/special-force.7a2c32dd.webp": "./static/media/special-force.7a2c32dd.webp",
     "static/media/submachine_4.99ae465e.webp": "./static/media/submachine_4.99ae465e.webp",
     "static/media/footer.module.scss": "./static/media/telegram.7f13590c.svg",
-    "static/media/tokenomics.25d3c6dd.5b34e586.webp": "./static/media/tokenomics.25d3c6dd.5b34e586.webp",
+    "static/media/tokenomics.25d3c6dd.41c192b9.webp": "./static/media/tokenomics.25d3c6dd.41c192b9.webp",
     "static/media/twitter.c2d86b73.svg": "./static/media/twitter.c2d86b73.svg"
   },
   "entrypoints": [
@@ -107,6 +107,6 @@
     "static/css/2.26df1462.chunk.css",
     "static/js/2.8ac48939.chunk.js",
     "static/css/main.9c777ca3.chunk.css",
-    "static/js/main.567efa41.chunk.js"
+    "static/js/main.009efcc1.chunk.js"
   ]
 }
